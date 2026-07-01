@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝒮𝒽𝒶𝓏𝒶 𝒢𝑜𝓊𝒹𝒶
+# ⊹ 𝒮𝒽𝒶𝓏𝒶 𝒢𝑜𝓊𝒹𝒶 ⊹
 
 ### Full-Stack Developer
 
@@ -11,50 +11,77 @@ Giza, Egypt
 <br>
 
 <a href="mailto:shazagouda48@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-
-•
 
 <a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-E1BEE7?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-•
-
 <a href="https://shazagouda.github.io/Shaza-Gouda/">
-Portfolio
+<img src="https://img.shields.io/badge/Portfolio-FCE4EC?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2800&pause=800&color=F38BA8&center=true&vCenter=true&width=900&lines=Building+Beautiful+and+Scalable+Products;Full+Stack+Developer;Angular+%7C+ASP.NET+Core+%7C+PHP;Clean+Code+and+Thoughtful+Design)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2300&pause=600&color=F48FB1&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products;Full+Stack+Developer;ASP.NET+Core+Engineer;Angular+Developer;Clean+Architecture;Software+Engineering"/>
 
 </div>
 
 ---
 
-## About
+# ✦ About Me
 
-Computer Science student at Assiut University with hands-on experience building full-stack applications across web technologies.
+```yaml
+Name:
+Shaza Gouda
 
-Focused on creating modern digital experiences through responsive frontend engineering, scalable backend architecture, and maintainable software design.
+Role:
+Full Stack Developer
 
-Industry training experience through **DEPI • ITI • NTI** with collaborative Agile environments.
+Education:
+Faculty of Computers and Information
+Assiut University
 
-Currently interested in:
+Current Year:
+Third Year
 
-```text
-ASP.NET Core
+GPA:
+3.23 / 4.00
+
+Expected Graduation:
+2027
+
+Focus:
 Angular
+ASP.NET Core
 REST APIs
-Software Architecture
-Scalable Applications
+Scalable Systems
+
+Status:
+Open To Work
+Remote Friendly
 ```
 
 ---
 
-## Tech Stack
+# ✦ Professional Summary
+
+Results-driven Full-Stack Developer experienced in building end-to-end web applications.
+
+Experienced in frontend engineering, backend APIs, authentication systems, database design, and responsive interfaces.
+
+Industry training through:
+
+DEPI  
+ITI  
+NTI
+
+Experienced in Agile collaboration and software engineering workflows.
+
+---
+
+# ✦ Technology Universe
 
 ### Frontend
 
@@ -67,6 +94,12 @@ TypeScript
 JavaScript
 ```
 
+Progress
+
+███████████████ 95%
+
+---
+
 ### Backend
 
 ```text
@@ -78,13 +111,25 @@ Node.js
 REST APIs
 ```
 
+Progress
+
+██████████████ 90%
+
+---
+
 ### Databases
 
 ```text
 MySQL
-SQL Server
 MongoDB
+SQL Server
 ```
+
+Progress
+
+████████████ 85%
+
+---
 
 ### Tools
 
@@ -97,196 +142,180 @@ VS Code
 Unit Testing
 ```
 
-### Programming
+Progress
 
-```text
-C#
-C++
-Java
-Python
-```
+█████████████ 88%
 
 ---
 
-## Experience
+# ✦ Experience Timeline
 
-### Digital Egypt Pioneers Program — DEPI
-
-Full-Stack .NET Development
+### DEPI — Full-Stack .NET
 
 Nov 2025 — Present
 
-• Building scalable applications using ASP.NET Core Web API
+✔ ASP.NET Core Web API
 
-• Applying layered architecture and software engineering practices
+✔ MVC
 
-• Developing responsive interfaces and backend systems
+✔ Unit Testing
+
+✔ Layered Architecture
+
+✔ Scalable Applications
 
 ---
 
-### Information Technology Institute — ITI
-
-Full-Stack Web Development
+### ITI — Full-Stack PHP
 
 Aug 2025 — Sep 2025
 
-• Built applications using PHP and MySQL
+✔ MVC
 
-• Applied MVC architecture
+✔ PHP
 
-• Designed RESTful APIs
+✔ MySQL
+
+✔ Clean Code
+
+✔ REST APIs
 
 ---
 
-### National Telecommunication Institute — NTI
-
-Full-Stack Web Development
+### NTI — Full-Stack Web Development
 
 Jul 2025 — Aug 2025
 
-• Developed FatoraBee
+✔ FatoraBee
 
-• Authentication and analytics systems
+✔ Analytics
+
+✔ Authentication
 
 ---
 
-### Frontend Development with Angular — DEPI
+### DEPI — Angular
 
 Oct 2024 — May 2025
 
-• Developed STAR Shop
+✔ STAR Shop
 
-• Worked in Agile teams
+✔ Angular
 
----
-
-### Winter Camp Monitor
-
-Assiut University
-
-Feb 2025 — Mar 2025
-
-• Mentored students in C++
+✔ Agile
 
 ---
 
-### ICPC Newcomers Training
+### Winter Camp
 
-Oct 2023 — Feb 2024
-
-• Competitive problem solving
+Mentored students in C++
 
 ---
 
-## Featured Projects
+### ICPC
+
+Competitive Problem Solving
+
+---
+
+# ✦ Featured Projects
+
+<table>
+
+<tr>
+
+<td>
 
 ### FatoraBee
 
-Invoice Management Platform
+Invoice Platform
 
-```text
-Angular
-PHP
+Angular  
+PHP  
 MySQL
-XAMPP
-```
 
-Authentication  
-Client Management  
-Analytics Dashboard  
-Chart Integration
+Authentication
 
----
+Dashboard
+
+Analytics
+
+Chart.js
+
+</td>
+
+<td>
 
 ### STAR Shop
 
-E-Commerce Platform
+E-Commerce
 
-```text
 Angular
+
 Node.js
+
 MongoDB
-```
 
-Product Catalog  
-JWT Authentication  
-Cart System  
-REST APIs
+JWT
 
----
+Cart
+
+Favorites
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### AstroVerse
 
-Interactive Space Learning
+Interactive Learning
 
-```text
 Angular
+
 Laravel
+
 PHP
-MySQL
-```
 
-Interactive Experience  
-Quiz Engine  
-External APIs
+Quiz Engine
 
----
+APIs
+
+</td>
+
+<td>
 
 ### SeeForMe
 
-Accessibility Assistant
+Accessibility
 
-```text
-HTML
-CSS
-JavaScript
 Speech API
-```
 
-Accessibility Modules  
-Camera Access
+Camera
 
----
+UI
 
-### University Management System
+</td>
 
-Desktop Application
+</tr>
 
-```text
-C++
-OOP
-Data Structures
-```
-
-Student Records  
-Course Management
+</table>
 
 ---
 
-## Education
-
-Bachelor of Computer Science
-
-Faculty of Computers and Information  
-Assiut University
+# ✦ Certifications
 
 ```text
-GPA: 3.23 / 4.00
-Expected Graduation: 2027
-```
+DEPI — Full Stack .NET
 
----
+DEPI — Angular
 
-## Certifications
+ITI — Full Stack PHP
 
-```text
-Full Stack .NET — DEPI
-
-Frontend Angular — DEPI
-
-Full Stack PHP — ITI
-
-Full Stack PHP — NTI
+NTI — Full Stack PHP
 
 Winter Programming Camp
 
@@ -295,25 +324,21 @@ ICPC Training
 
 ---
 
-## Languages
+# ✦ Languages
 
-```text
-Arabic — Native
+Arabic      Native
 
-English — B2 / C1
-```
+English     B2–C1
 
 ---
 
-## Availability
+# ✦ Availability
 
-Open to:
+Remote
 
-Remote Roles
+Full Time
 
-Full-Time
-
-Part-Time
+Part Time
 
 Freelance
 
@@ -323,7 +348,28 @@ International Opportunities
 
 <div align="center">
 
-Designed with care  
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shazagouda&theme=transparent&show_icons=true&hide_border=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&theme=transparent&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda&bg_color=ffffff00"/>
+
+</div>
+
+---
+
+<div align="center">
+
+Designed carefully  
 Built with code
 
 </div>
