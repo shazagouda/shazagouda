@@ -1,263 +1,337 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&text=SHAZA%20GOUDA&animation=twinkling&fontAlign=50&fontAlignY=36&fontSize=65&fontColor=ffffff&color=gradient"/>
+# SHAZA GOUDA
 
-<br>
+### Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2200&pause=500&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=FULL+STACK+DEVELOPER;ASP.NET+CORE+%7C+ANGULAR+ENGINEER;BUILDING+SCALABLE+DIGITAL+PRODUCTS"/>
+Angular • PHP • Node.js • .NET
 
-<br><br>
+Giza, Egypt
 
-<a href="mailto:shazagouda48@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://shazagouda.github.io/Shaza-Gouda/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge"/>
-</a>
+<a href="mailto:shazagouda48@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">LinkedIn</a> •
+<a href="https://shazagouda.github.io/Shaza-Gouda/">Portfolio</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shazagouda&style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2600&pause=600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;Building+Scalable+Digital+Products;RESTful+API+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+# PROFESSIONAL SUMMARY
 
-# ENGINEERING PROFILE
+Results-driven Full-Stack Developer and third-year Computer Science student at Assiut University.
 
-</div>
+Specialized in Angular, PHP, and .NET with experience delivering complete web applications from frontend interfaces to backend architecture and scalable APIs.
 
-```yaml id="rwxl0t"
-Developer:
-  Shaza Gouda
+Experienced across industry training programs including DEPI, ITI, and NTI and collaborative Agile environments.
 
-Role:
-  Full Stack Developer
+Currently seeking opportunities to contribute to scalable and user-centered digital products.
 
-Current Stack:
-  ASP.NET Core
-  Angular
-  PHP
-  Node.js
+---
 
-Architecture:
-  MVC
-  REST APIs
-  Layered Architecture
+# TECHNOLOGY STACK
 
-Programs:
-  DEPI
-  ITI
-  NTI
+## Frontend
 
-Status:
-  Open To Opportunities
+```text
+Angular
+HTML5
+CSS3
+TypeScript
+JavaScript
+Bootstrap
+```
+
+## Backend
+
+```text
+ASP.NET Core
+.NET MVC
+PHP
+Laravel
+Node.js
+REST APIs
+```
+
+## Databases
+
+```text
+MySQL
+SQL Server
+MongoDB
+```
+
+## Tools & Practices
+
+```text
+Git
+GitHub
+Docker
+Postman
+VS Code
+Unit Testing
+```
+
+## Programming Languages
+
+```text
+C#
+C++
+Java
+Python
 ```
 
 ---
 
-<div align="center">
-
-# TECHNOLOGY ECOSYSTEM
-
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,js,ts,dotnet,cs,php,laravel,nodejs,mysql,mongodb,docker,git,github,vscode"/>
-
-</div>
-
----
-
-<div align="center">
-
-# PERFORMANCE DASHBOARD
-
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazagouda&theme=github_dark"/>
-
-<br>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&hide_border=true"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 # PROFESSIONAL EXPERIENCE
 
-</div>
+## Digital Egypt Pioneers Program (DEPI)
 
-<table>
+Full-Stack .NET Development Trainee
 
-<tr>
+Nov 2025 — Present
 
-<td>
+• Building scalable applications using ASP.NET Core Web API
 
-DEPI
+• Developing data-driven interfaces with HTML5, CSS3, JavaScript and C#
 
-.NET
+• Applying layered architecture and software engineering practices
 
-ASP.NET Core
+• Writing maintainable and testable code
 
-Web API
+---
 
-Unit Testing
+## Information Technology Institute (ITI)
 
-</td>
+Full-Stack Web Development Intern
 
-<td>
+Aug 2025 — Sep 2025
 
-ITI
+• Delivered dynamic applications using PHP and MySQL
 
-PHP
+• Applied MVC architecture
 
-MVC
+• Implemented RESTful APIs
 
-MySQL
+• Followed clean code practices
 
-REST APIs
+---
 
-</td>
+## National Telecommunication Institute (NTI)
 
-<td>
+Full-Stack Web Development Intern
 
-NTI
+Jul 2025 — Aug 2025
 
-Angular
+• Built FatoraBee invoice platform
 
-Analytics
+• Designed dashboards and analytics
 
-Authentication
+• Developed authentication systems
 
-Dashboards
+---
 
-</td>
+## Digital Egypt Pioneers Program
 
-</tr>
+Frontend Development with Angular
 
-</table>
+Oct 2024 — May 2025
+
+• Developed STAR Shop
+
+• Built secure authentication systems
+
+• Worked inside Agile teams
+
+---
+
+## Assiut University
+
+Winter Camp Monitor
+
+Feb 2025 — Mar 2025
+
+• Mentored students in C++
+
+• Introduced OOP concepts
+
+---
+
+## ICPC Newcomers Training
+
+Oct 2023 — Feb 2024
+
+• Improved algorithmic thinking
+
+• Strengthened competitive problem solving
+
+---
+
+# FEATURED PROJECTS
+
+## FatoraBee
+
+Invoice Management Platform
+
+Stack
+
+Angular • PHP • MySQL • XAMPP
+
+Features
+
+• Authentication
+
+• Client Management
+
+• Invoice CRUD
+
+• Analytics Dashboard
+
+• Chart.js Integration
+
+• Responsive Design
+
+---
+
+## STAR Shop
+
+Production E-Commerce Platform
+
+Stack
+
+Angular • Node.js • MongoDB
+
+Features
+
+• Product Catalog
+
+• Cart System
+
+• Favorites
+
+• JWT Authentication
+
+• REST API Integration
+
+---
+
+## AstroVerse
+
+Interactive Space Learning App
+
+Stack
+
+Angular • Laravel • PHP • MySQL
+
+Features
+
+• Interactive Solar System
+
+• Quiz Engine
+
+• External API Integration
+
+• Dynamic User Experience
+
+---
+
+## SeeForMe
+
+Accessibility Assistant Simulation
+
+Stack
+
+HTML • CSS • JavaScript
+
+Features
+
+• Speech API
+
+• Camera Access
+
+• Accessibility Modules
+
+---
+
+## University Management System
+
+Desktop Application
+
+Stack
+
+C++ • OOP • Data Structures
+
+Features
+
+• Student Management
+
+• Course Assignment
+
+• Grade Tracking
+
+---
+
+# EDUCATION
+
+Bachelor of Computer Science
+
+Faculty of Computers and Information
+
+Assiut University
+
+GPA
+
+3.23 / 4.00
+
+Expected Graduation
+
+2027
+
+---
+
+# CERTIFICATIONS
+
+Full-Stack .NET Development — DEPI
+
+Frontend Development with Angular — DEPI
+
+Full-Stack Web Development — ITI
+
+Full-Stack Web Development — NTI
+
+Winter Programming Camp
+
+ICPC Newcomers Training
+
+---
+
+# LANGUAGES
+
+Arabic — Native
+
+English — Intermediate (B2–C1)
+
+---
+
+# AVAILABILITY
+
+Open to
+
+Full-Time
+
+Part-Time
+
+Freelance
+
+Remote International Opportunities
 
 ---
 
 <div align="center">
 
-# PROJECT SHOWCASE
+Building products with clean architecture and scalable engineering.
 
 </div>
-
-<table>
-
-<tr>
-
-<td>
-
-FatoraBee
-
-Invoice System
-
-Angular
-
-PHP
-
-MySQL
-
-</td>
-
-<td>
-
-STAR Shop
-
-E-Commerce
-
-Angular
-
-Node
-
-Mongo
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-AstroVerse
-
-Interactive Learning
-
-Laravel
-
-Angular
-
-</td>
-
-<td>
-
-SeeForMe
-
-Accessibility
-
-Speech API
-
-Camera
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# CONTRIBUTION MAP
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/>
-
-</div>
-
----
-
-<div align="center">
-
-# LIVE ACTIVITY
-
-<img width="100%"
-src="https://github-profile-trophy.vercel.app/?username=shazagouda&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-# CONNECT
-
-Portfolio
-https://shazagouda.github.io/Shaza-Gouda/
-
-LinkedIn
-linkedin.com/in/shaza-gouda-27aa3931b
-
-Email
-[shazagouda48@gmail.com](mailto:shazagouda48@gmail.com)
-
-</div>
-
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=250&color=gradient"/>
