@@ -1,77 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,100:1E293B&text=SHAZA%20GOUDA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,100:0F172A&text=SHAZA%20GOUDA&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=700&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;ASP.NET+Core+Engineer;Angular+Developer;Building+Scalable+Digital+Products;Clean+Architecture+%7C+REST+APIs"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=500&color=94A3B8&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;Angular+%7C+ASP.NET+Core+%7C+Node.js;Building+Scalable+Digital+Products;Youth+of+the+Future"/>
 
 <br><br>
 
 <a href="mailto:shazagouda48@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://shazagouda.github.io/Shaza-Gouda/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-# About
-
-Results-driven Full-Stack Developer and third-year Computer Science student at Assiut University.
-
-Specialized in Angular, PHP, and .NET with experience delivering complete web applications from frontend interfaces to scalable backend systems.
-
-Experienced across DEPI, ITI, and NTI programs with hands-on Agile teamwork and software engineering practices.
-
-Open to building scalable and user-centered products.
-
----
-
-# Developer Profile
+# // WHO I AM
 
 ```yaml
-Name:
-Shaza Gouda
+name:
+  Shaza Gouda
 
-Role:
-Full Stack Developer
+role:
+  Full Stack Developer
 
-Location:
-Giza Egypt
+location:
+  Giza, Egypt
 
-University:
-Faculty of Computers and Information
-Assiut University
+education:
+  Faculty of Computers and Information
+  Assiut University
 
-GPA:
-3.23 / 4.00
+year:
+  Third Year
 
-Expected Graduation:
-2027
+gpa:
+  3.23 / 4.00
 
-Focus:
-ASP.NET Core
-Angular
-Software Architecture
-REST APIs
+expected_graduation:
+  2027
 ```
 
 ---
 
-# Technology Stack
+# // ABOUT
+
+Results-driven Full-Stack Developer specializing in Angular, PHP, Node.js, and .NET.
+
+Focused on building complete software experiences from responsive interfaces to secure APIs and scalable backend systems.
+
+Trained through DEPI, ITI, and NTI programs with practical experience across software engineering workflows and Agile collaboration.
+
+Currently interested in building products that balance usability, performance, and maintainability.
+
+---
+
+# // TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,js,ts,dotnet,cs,php,laravel,nodejs,mysql,mongodb,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,js,ts,dotnet,cs,php,laravel,nodejs,mysql,mongodb,docker,git,github,postman,vscode"/>
 
 </div>
 
@@ -85,17 +82,14 @@ REST APIs
 
 Frontend
 
+```text
 Angular
-
 HTML5
-
 CSS3
-
 TypeScript
-
 JavaScript
-
 Bootstrap
+```
 
 </td>
 
@@ -103,17 +97,14 @@ Bootstrap
 
 Backend
 
+```text
 ASP.NET Core
-
 .NET MVC
-
 PHP
-
 Laravel
-
 Node.js
-
 REST APIs
+```
 
 </td>
 
@@ -125,29 +116,25 @@ REST APIs
 
 Databases
 
+```text
 SQL Server
-
 MySQL
-
 MongoDB
+```
 
 </td>
 
 <td width="50%">
 
-Tools
+Engineering
 
+```text
 Git
-
-GitHub
-
 Docker
-
 Postman
-
 Unit Testing
-
-VS Code
+Agile
+```
 
 </td>
 
@@ -157,61 +144,59 @@ VS Code
 
 ---
 
-# Professional Experience
+# // EXPERIENCE
 
-## Digital Egypt Pioneers Program — DEPI
-
-Full-Stack .NET Development
+## DEPI — Full Stack .NET
 
 Nov 2025 — Present
 
-• Building scalable applications using ASP.NET Core Web API
+→ ASP.NET Core Web API
 
-• Developing responsive interfaces and backend systems
+→ MVC Architecture
 
-• Applying layered architecture
+→ Layered Architecture
 
-• Applying software engineering and unit testing practices
+→ Unit Testing
+
+→ Scalable Applications
 
 ---
 
-## Information Technology Institute — ITI
-
-Full-Stack Web Development
+## ITI — Full Stack PHP
 
 Aug 2025 — Sep 2025
 
-• Delivered applications using PHP and MySQL
+→ PHP
 
-• Applied MVC architecture
+→ MySQL
 
-• Implemented REST APIs
+→ MVC
+
+→ REST APIs
+
+→ Clean Code
 
 ---
 
-## National Telecommunication Institute — NTI
-
-Full-Stack Web Development
+## NTI — Full Stack Web Development
 
 Jul 2025 — Aug 2025
 
-• Built FatoraBee
+→ Built FatoraBee
 
-• Developed analytics dashboards
+→ Analytics Systems
 
-• Authentication systems
+→ Authentication
 
 ---
 
-## Digital Egypt Pioneers Program
-
-Frontend Development with Angular
+## DEPI — Angular Development
 
 Oct 2024 — May 2025
 
-• Developed STAR Shop
+→ Built STAR Shop
 
-• Collaborated in Agile teams
+→ Agile Collaboration
 
 ---
 
@@ -219,21 +204,25 @@ Oct 2024 — May 2025
 
 Winter Camp Monitor
 
-Feb 2025 — Mar 2025
+Mentoring in:
 
-• Mentored students in C++ and OOP
+→ C++
 
----
-
-## ICPC Newcomers Training
-
-Oct 2023 — Feb 2024
-
-• Strengthened algorithmic thinking
+→ OOP
 
 ---
 
-# Featured Projects
+## ICPC Training
+
+Competitive Programming
+
+→ Algorithms
+
+→ Problem Solving
+
+---
+
+# // FEATURED PROJECTS
 
 <table>
 
@@ -245,17 +234,19 @@ Oct 2023 — Feb 2024
 
 Invoice Management Platform
 
-Angular
+Stack
 
-PHP
-
+Angular  
+PHP  
 MySQL
+
+Features
 
 Authentication
 
-Analytics
+Client Management
 
-Dashboard
+Analytics Dashboard
 
 Chart.js
 
@@ -267,17 +258,21 @@ Chart.js
 
 E-Commerce Platform
 
-Angular
+Stack
 
-Node.js
-
+Angular  
+Node.js  
 MongoDB
+
+Features
 
 JWT
 
 Favorites
 
 Cart
+
+REST APIs
 
 </td>
 
@@ -289,7 +284,7 @@ Cart
 
 ### AstroVerse
 
-Interactive Space Learning
+Interactive Learning
 
 Angular
 
@@ -297,13 +292,13 @@ Laravel
 
 PHP
 
-MySQL
+Features
 
-3D Experience
+Interactive Solar System
 
 Quiz Engine
 
-API Integration
+External APIs
 
 </td>
 
@@ -319,6 +314,8 @@ CSS
 
 JavaScript
 
+Features
+
 Speech API
 
 Camera
@@ -333,38 +330,28 @@ Accessibility
 
 ---
 
-## University Management System
+# // EDUCATION
 
-Desktop Application
+Bachelor of Computer Science
 
-Stack:
+Faculty of Computers and Information
 
-C++
+Assiut University
 
-OOP
-
-Data Structures
-
-Features:
-
-Student Management
-
-Course Assignment
-
-Grade Tracking
+Expected Graduation — 2027
 
 ---
 
-# Certifications
+# // CERTIFICATIONS
 
 ```text
-Full Stack .NET — DEPI
+DEPI — Full Stack .NET
 
-Frontend Angular — DEPI
+DEPI — Angular
 
-Full Stack PHP — ITI
+ITI — Full Stack PHP
 
-Full Stack PHP — NTI
+NTI — Full Stack PHP
 
 Winter Programming Camp
 
@@ -373,7 +360,7 @@ ICPC Training
 
 ---
 
-# Languages
+# // LANGUAGES
 
 Arabic — Native
 
@@ -381,25 +368,31 @@ English — Intermediate (B2–C1)
 
 ---
 
-# Availability
+# // CURRENT STATUS
 
-Remote
+```text
+Open To Work
+
+Remote Opportunities
 
 Full Time
 
 Part Time
 
 Freelance
-
-International Opportunities
+```
 
 ---
 
-# GitHub Analytics
+# // ENGINEERING DASHBOARD
 
 <div align="center">
 
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&theme=transparent&hide_border=true"/>
 
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -408,7 +401,7 @@ International Opportunities
 <div align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda&bg_color=00000000&hide_border=true"/>
 
 </div>
 
@@ -416,10 +409,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/
 
 <div align="center">
 
-Software Engineering  
+### BUILD • LEARN • SHIP
 
+Software Engineering with intention
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B1120,100:1E293B"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:020617,100:0F172A"/>
