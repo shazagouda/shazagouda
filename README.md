@@ -221,7 +221,7 @@ Competitive Programming
 → Problem Solving
 
 ---
-# // FEATURED PROJECTS
+#  FEATURED PROJECTS
 
 <table>
 
