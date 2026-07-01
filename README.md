@@ -1,89 +1,93 @@
 <div align="center">
 
-# ⊹ 𝒮𝒽𝒶𝓏𝒶 𝒢𝑜𝓊𝒹𝒶 ⊹
+# SHAZA GOUDA
 
-### Full-Stack Developer
+### SOFTWARE ENGINEER · FULL STACK DEVELOPER
 
-Angular • PHP • Node.js • .NET
-
-Giza, Egypt
+ANGULAR · ASP.NET CORE · PHP · NODE.JS
 
 <br>
 
 <a href="mailto:shazagouda48@gmail.com">
-<img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-<img src="https://img.shields.io/badge/LinkedIn-E1BEE7?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://shazagouda.github.io/Shaza-Gouda/">
-<img src="https://img.shields.io/badge/Portfolio-FCE4EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2300&pause=600&color=F48FB1&center=true&vCenter=true&width=1000&lines=Building+Scalable+Products;Full+Stack+Developer;ASP.NET+Core+Engineer;Angular+Developer;Clean+Architecture;Software+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=7AA2F7&center=true&vCenter=true&width=1200&lines=Building+Scalable+Systems;Designing+Production+Ready+Applications;Software+Engineering+Mindset;Clean+Architecture+%7C+REST+APIs;Always+Learning+Always+Shipping"/>
 
 </div>
 
 ---
 
-# ✦ About Me
+# PROFILE
 
 ```yaml
-Name:
-Shaza Gouda
+name:
+  Shaza Gouda
 
-Role:
-Full Stack Developer
+title:
+  Full Stack Developer
 
-Education:
-Faculty of Computers and Information
-Assiut University
+location:
+  Giza Egypt
 
-Current Year:
-Third Year
+education:
+  Faculty of Computers and Information
+  Assiut University
 
-GPA:
-3.23 / 4.00
+year:
+  Third Year
 
-Expected Graduation:
-2027
+gpa:
+  3.23 / 4.00
 
-Focus:
-Angular
-ASP.NET Core
-REST APIs
-Scalable Systems
+graduation:
+  2027
 
-Status:
-Open To Work
-Remote Friendly
+current_focus:
+  - ASP.NET Core
+  - Angular
+  - Software Architecture
+  - REST APIs
+
+availability:
+  - Remote
+  - Full Time
+  - Part Time
 ```
 
 ---
 
-# ✦ Professional Summary
+# PROFESSIONAL SUMMARY
 
-Results-driven Full-Stack Developer experienced in building end-to-end web applications.
+Results-driven Full-Stack Developer with practical experience delivering production-oriented applications.
 
-Experienced in frontend engineering, backend APIs, authentication systems, database design, and responsive interfaces.
+Experienced in building modern frontend interfaces, backend services, secure APIs, authentication flows, and scalable database architectures.
 
-Industry training through:
+Trained across DEPI, ITI and NTI programs and experienced in Agile development environments.
 
-DEPI  
-ITI  
-NTI
-
-Experienced in Agile collaboration and software engineering workflows.
+Interested in developing maintainable systems that prioritize performance, usability, and engineering quality.
 
 ---
 
-# ✦ Technology Universe
+# TECHNOLOGY MATRIX
 
-### Frontend
+<table>
+
+<tr>
+
+<td width="50%">
+
+FRONTEND
 
 ```text
 Angular
@@ -94,13 +98,11 @@ TypeScript
 JavaScript
 ```
 
-Progress
+</td>
 
-███████████████ 95%
+<td width="50%">
 
----
-
-### Backend
+BACKEND
 
 ```text
 ASP.NET Core
@@ -111,27 +113,27 @@ Node.js
 REST APIs
 ```
 
-Progress
+</td>
 
-██████████████ 90%
+</tr>
 
----
+<tr>
 
-### Databases
+<td width="50%">
+
+DATABASES
 
 ```text
+SQL Server
 MySQL
 MongoDB
-SQL Server
 ```
 
-Progress
+</td>
 
-████████████ 85%
+<td width="50%">
 
----
-
-### Tools
+TOOLS
 
 ```text
 Git
@@ -142,83 +144,107 @@ VS Code
 Unit Testing
 ```
 
-Progress
+</td>
 
-█████████████ 88%
+</tr>
+
+</table>
 
 ---
 
-# ✦ Experience Timeline
+# PROFESSIONAL EXPERIENCE
 
-### DEPI — Full-Stack .NET
+## DIGITAL EGYPT PIONEERS PROGRAM
+
+Full Stack .NET Development
 
 Nov 2025 — Present
 
-✔ ASP.NET Core Web API
+• ASP.NET Core Web APIs
 
-✔ MVC
+• MVC Applications
 
-✔ Unit Testing
+• Layered Architecture
 
-✔ Layered Architecture
+• Unit Testing
 
-✔ Scalable Applications
+• Scalable Systems
 
 ---
 
-### ITI — Full-Stack PHP
+## INFORMATION TECHNOLOGY INSTITUTE
+
+Full Stack Web Development
 
 Aug 2025 — Sep 2025
 
-✔ MVC
+• PHP Development
 
-✔ PHP
+• MVC Design
 
-✔ MySQL
+• REST APIs
 
-✔ Clean Code
-
-✔ REST APIs
+• Clean Architecture
 
 ---
 
-### NTI — Full-Stack Web Development
+## NATIONAL TELECOMMUNICATION INSTITUTE
+
+Full Stack Development
 
 Jul 2025 — Aug 2025
 
-✔ FatoraBee
+Delivered:
 
-✔ Analytics
+• FatoraBee
 
-✔ Authentication
+• Analytics Systems
+
+• Authentication
 
 ---
 
-### DEPI — Angular
+## DIGITAL EGYPT PIONEERS PROGRAM
+
+Frontend Development with Angular
 
 Oct 2024 — May 2025
 
-✔ STAR Shop
+Delivered:
 
-✔ Angular
+• STAR Shop
 
-✔ Agile
+• Angular Applications
 
----
-
-### Winter Camp
-
-Mentored students in C++
+• Agile Collaboration
 
 ---
 
-### ICPC
+## WINTER CAMP
 
-Competitive Problem Solving
+Assiut University
+
+Mentoring in:
+
+• C++
+
+• OOP
 
 ---
 
-# ✦ Featured Projects
+## ICPC TRAINING
+
+Competitive Programming
+
+Focus:
+
+• Algorithms
+
+• Problem Solving
+
+---
+
+# FEATURED PROJECTS
 
 <table>
 
@@ -228,10 +254,12 @@ Competitive Problem Solving
 
 ### FatoraBee
 
-Invoice Platform
+Invoice Management Platform
 
-Angular  
-PHP  
+Angular
+
+PHP
+
 MySQL
 
 Authentication
@@ -248,7 +276,7 @@ Chart.js
 
 ### STAR Shop
 
-E-Commerce
+Production E-Commerce
 
 Angular
 
@@ -258,9 +286,9 @@ MongoDB
 
 JWT
 
-Cart
-
 Favorites
+
+Cart
 
 </td>
 
@@ -278,11 +306,9 @@ Angular
 
 Laravel
 
-PHP
+API Integration
 
-Quiz Engine
-
-APIs
+Quiz System
 
 </td>
 
@@ -290,13 +316,13 @@ APIs
 
 ### SeeForMe
 
-Accessibility
+Accessibility Assistant
 
 Speech API
 
 Camera
 
-UI
+Accessibility
 
 </td>
 
@@ -306,9 +332,44 @@ UI
 
 ---
 
-# ✦ Certifications
+# ENGINEERING VALUES
 
 ```text
+Scalable Design
+
+Clean Architecture
+
+Maintainable Code
+
+RESTful APIs
+
+Performance Focus
+
+Continuous Learning
+```
+
+---
+
+# EDUCATION
+
+Bachelor of Computer Science
+
+Faculty of Computers and Information
+
+Assiut University
+
+GPA
+
+3.23 / 4.00
+
+Expected Graduation
+
+2027
+
+---
+
+# CERTIFICATIONS
+
 DEPI — Full Stack .NET
 
 DEPI — Angular
@@ -320,39 +381,24 @@ NTI — Full Stack PHP
 Winter Programming Camp
 
 ICPC Training
-```
 
 ---
 
-# ✦ Languages
+# LANGUAGES
 
-Arabic      Native
+Arabic — Native
 
-English     B2–C1
-
----
-
-# ✦ Availability
-
-Remote
-
-Full Time
-
-Part Time
-
-Freelance
-
-International Opportunities
+English — B2 / C1
 
 ---
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=shazagouda&theme=transparent&show_icons=true&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&theme=transparent&layout=compact&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -361,7 +407,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&t
 <div align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda&bg_color=ffffff00"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/>
 
 </div>
 
@@ -369,7 +415,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda&b
 
 <div align="center">
 
-Designed carefully  
-Built with code
+Software Engineering  
+Built With Intention
 
 </div>
