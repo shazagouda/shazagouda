@@ -1,89 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=SHAZA%20GOUDA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=420&text=SHAZA%20GOUDA&animation=twinkling&fontAlign=50&fontAlignY=36&fontSize=65&fontColor=ffffff&color=gradient"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;ASP.NET+Core+Engineer;Angular+Developer;Building+Scalable+Digital+Products;Software+Engineering+%7C+Clean+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=2200&pause=500&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=120&lines=FULL+STACK+DEVELOPER;ASP.NET+CORE+%7C+ANGULAR+ENGINEER;BUILDING+SCALABLE+DIGITAL+PRODUCTS"/>
 
 <br><br>
 
 <a href="mailto:shazagouda48@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://shazagouda.github.io/Shaza-Gouda/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shazagouda&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 01 — Executive Profile
+<div align="center">
 
-```yaml
-name: Shaza Gouda
+# ENGINEERING PROFILE
 
-role:
- Full-Stack Developer
+</div>
 
-education:
- Faculty of Computers and Information
- Assiut University
+```yaml id="rwxl0t"
+Developer:
+  Shaza Gouda
 
-location:
- Giza, Egypt
+Role:
+  Full Stack Developer
 
-specialization:
- - ASP.NET Core
- - Angular
- - Full Stack Development
+Current Stack:
+  ASP.NET Core
+  Angular
+  PHP
+  Node.js
 
-experience:
- - DEPI
- - ITI
- - NTI
+Architecture:
+  MVC
+  REST APIs
+  Layered Architecture
 
-focus:
- Building scalable applications
+Programs:
+  DEPI
+  ITI
+  NTI
+
+Status:
+  Open To Opportunities
 ```
 
 ---
 
-# 02 — About
-
-Results-driven Full-Stack Developer with hands-on experience delivering complete web applications from frontend interfaces to backend APIs and databases.
-
-Experienced in building scalable systems using modern engineering practices, RESTful APIs, MVC architecture, and responsive user experiences.
-
-Open to building impactful digital products.
-
----
-
-# 03 — Technology Stack
-
 <div align="center">
+
+# TECHNOLOGY ECOSYSTEM
 
 <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,js,ts,dotnet,cs,php,laravel,nodejs,mysql,mongodb,docker,git,github,vscode"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazagouda&theme=github_dark"/>
+# PERFORMANCE DASHBOARD
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazagouda&theme=github_dark"/>
+
+<br>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&hide_border=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
-# 04 — Professional Journey
+<div align="center">
+
+# PROFESSIONAL EXPERIENCE
+
+</div>
 
 <table>
 
@@ -93,11 +106,12 @@ Open to building impactful digital products.
 
 DEPI
 
-Full-Stack .NET
+.NET
 
 ASP.NET Core
-MVC
-REST APIs
+
+Web API
+
 Unit Testing
 
 </td>
@@ -106,11 +120,13 @@ Unit Testing
 
 ITI
 
-PHP Development
+PHP
 
 MVC
+
 MySQL
-Clean Code
+
+REST APIs
 
 </td>
 
@@ -118,11 +134,13 @@ Clean Code
 
 NTI
 
-Full Stack
-
 Angular
-PHP
+
 Analytics
+
+Authentication
+
+Dashboards
 
 </td>
 
@@ -132,41 +150,41 @@ Analytics
 
 ---
 
-# 05 — Featured Projects
+<div align="center">
+
+# PROJECT SHOWCASE
+
+</div>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td>
 
-### FatoraBee
+FatoraBee
 
-Invoice Management Platform
+Invoice System
 
 Angular
-PHP
-MySQL
 
-Authentication
-Dashboard
-Analytics
+PHP
+
+MySQL
 
 </td>
 
-<td width="50%">
+<td>
 
-### STAR Shop
+STAR Shop
 
-Production E-Commerce
+E-Commerce
 
 Angular
-Node.js
-MongoDB
 
-JWT
-Cart
-Favorites
+Node
+
+Mongo
 
 </td>
 
@@ -174,27 +192,27 @@ Favorites
 
 <tr>
 
-<td width="50%">
+<td>
 
-### AstroVerse
+AstroVerse
 
 Interactive Learning
 
-Angular
 Laravel
-API Integration
+
+Angular
 
 </td>
 
-<td width="50%">
+<td>
 
-### SeeForMe
+SeeForMe
 
-Accessibility Assistant
+Accessibility
 
 Speech API
+
 Camera
-Responsive UI
 
 </td>
 
@@ -204,21 +222,9 @@ Responsive UI
 
 ---
 
-# 06 — GitHub Analytics
-
 <div align="center">
 
-<img height="190"
-src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="190"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
+# CONTRIBUTION MAP
 
 <img width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/>
@@ -227,47 +233,31 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda"/
 
 ---
 
-# 07 — Engineering Principles
+<div align="center">
 
-```text
-Clean Architecture
-Scalable Systems
-REST APIs
-Maintainable Code
-Performance First
-User Centered Design
-```
+# LIVE ACTIVITY
+
+<img width="100%"
+src="https://github-profile-trophy.vercel.app/?username=shazagouda&row=1&column=7"/>
+
+</div>
 
 ---
 
-# 08 — Connect
-
 <div align="center">
 
-<a href="mailto:shazagouda48@gmail.com">
-Email
-</a>
+# CONNECT
 
-•
-
-<a href="https://www.linkedin.com/in/shaza-gouda-27aa3931b">
-LinkedIn
-</a>
-
-•
-
-<a href="https://shazagouda.github.io/Shaza-Gouda/">
 Portfolio
-</a>
+https://shazagouda.github.io/Shaza-Gouda/
+
+LinkedIn
+linkedin.com/in/shaza-gouda-27aa3931b
+
+Email
+[shazagouda48@gmail.com](mailto:shazagouda48@gmail.com)
 
 </div>
 
-<br>
-
-<div align="center">
-
-Building products with engineering discipline.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=250&color=gradient"/>
