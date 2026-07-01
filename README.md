@@ -221,58 +221,94 @@ Competitive Programming
 → Problem Solving
 
 ---
-
 # // FEATURED PROJECTS
 
 <table>
 
 <tr>
 
-<td>
+<td width="50%">
 
-### FatoraBee
+<h3>FatoraBee</h3>
 
-Invoice Management Platform
+<b>Invoice Management System</b>
+
+<br><br>
 
 Stack
 
-Angular  
-PHP  
+```text
+Angular
+PHP
 MySQL
+XAMPP
+```
 
-Features
+Date
 
-Authentication
+```text
+Aug 2025
+```
 
-Client Management
+Highlights
 
-Analytics Dashboard
+→ Designed and deployed a complete full-stack invoicing platform.
 
-Chart.js
+→ Implemented role-based authentication and authorization.
+
+→ Developed client and invoice CRUD operations.
+
+→ Built a real-time analytics dashboard powered by Chart.js.
+
+→ Engineered secure login and registration workflows.
+
+→ Delivered responsive user experience across devices.
+
+<br>
+
+Repository → Add GitHub Link
 
 </td>
 
-<td>
+<td width="50%">
 
-### STAR Shop
+<h3>STAR Shop</h3>
 
-E-Commerce Platform
+<b>Production-Grade E-Commerce Platform</b>
+
+<br><br>
 
 Stack
 
-Angular  
-Node.js  
+```text
+Angular
+Node.js
 MongoDB
+```
 
-Features
+Date
 
-JWT
+```text
+May 2025
+```
 
-Favorites
+Highlights
 
-Cart
+→ Built an electronics e-commerce storefront.
 
-REST APIs
+→ Implemented product catalog and dynamic rendering.
+
+→ Designed favorites and cart management modules.
+
+→ Integrated secure authentication workflows.
+
+→ Connected RESTful APIs for scalable communication.
+
+→ Optimized frontend responsiveness and performance.
+
+<br>
+
+Repository → Add GitHub Link
 
 </td>
 
@@ -280,47 +316,122 @@ REST APIs
 
 <tr>
 
-<td>
+<td width="50%">
 
-### AstroVerse
+<h3>AstroVerse</h3>
 
-Interactive Learning
+<b>Interactive Space Learning Platform</b>
 
+<br><br>
+
+Stack
+
+```text
 Angular
-
 Laravel
-
 PHP
+MySQL
+JavaScript
+```
 
-Features
+Date
 
-Interactive Solar System
+```text
+Jul 2025
+```
 
-Quiz Engine
+Highlights
 
-External APIs
+→ Developed immersive educational experiences.
+
+→ Built interactive 3D Solar System exploration.
+
+→ Designed constellation creation modules.
+
+→ Integrated quiz engine and live space news.
+
+→ Connected external APIs for dynamic content.
+
+→ Implemented full-stack architecture with Angular and Laravel.
+
+<br>
+
+Repository → Add GitHub Link
 
 </td>
 
-<td>
+<td width="50%">
 
-### SeeForMe
+<h3>TrustLink</h3>
 
-Accessibility Assistant
+<b>Full-Stack Web Application</b>
 
-HTML
+<br><br>
 
-CSS
+Stack
 
+```text
+ASP.NET Core MVC (.NET 8)
+SQL Server
+Bootstrap 5
 JavaScript
+ASP.NET Identity
+```
 
-Features
+Architecture
 
-Speech API
+```text
+N-Tier Architecture
+Repository Pattern
+Unit of Work
+Dependency Injection
+DTOs
+ViewModels
+```
 
-Camera
+Highlights
 
-Accessibility
+→ Designed a complete digital collaboration platform.
+
+→ Implemented secure registration and authentication.
+
+→ Developed user dashboard and profile management.
+
+→ Built listing management with multi-image upload.
+
+→ Engineered booking workflows with conflict validation.
+
+→ Implemented automated contract generation.
+
+→ Integrated digital signatures.
+
+→ Generated downloadable PDF contracts.
+
+→ Developed internal messaging.
+
+→ Implemented reviews and ratings system.
+
+→ Built favorites functionality using AJAX.
+
+→ Designed admin dashboard and reporting modules.
+
+→ Prepared payment architecture for Stripe integration.
+
+Security
+
+✔ Role-Based Authorization
+
+✔ Anti-Forgery Protection
+
+✔ Soft Delete
+
+✔ Validation & Data Integrity
+
+✔ Secure Identity Management
+
+<br>
+
+Repository → Add GitHub Link
 
 </td>
 
@@ -330,7 +441,7 @@ Accessibility
 
 ---
 
-# // EDUCATION
+#  EDUCATION
 
 Bachelor of Computer Science
 
@@ -342,7 +453,7 @@ Expected Graduation — 2027
 
 ---
 
-# // CERTIFICATIONS
+#  CERTIFICATIONS
 
 ```text
 DEPI — Full Stack .NET
@@ -360,7 +471,7 @@ ICPC Training
 
 ---
 
-# // LANGUAGES
+#  LANGUAGES
 
 Arabic — Native
 
@@ -368,7 +479,7 @@ English — Intermediate (B2–C1)
 
 ---
 
-# // CURRENT STATUS
+#  CURRENT STATUS
 
 ```text
 Open To Work
@@ -384,7 +495,7 @@ Freelance
 
 ---
 
-# // ENGINEERING DASHBOARD
+#  ENGINEERING DASHBOARD
 
 <div align="center">
 
