@@ -24,7 +24,7 @@
 
 ---
 
-# // WHO I AM
+# WHO I AM
 
 ```yaml
 name:
@@ -52,7 +52,7 @@ expected_graduation:
 
 ---
 
-# // ABOUT
+#  ABOUT
 
 Results-driven Full-Stack Developer specializing in Angular, PHP, Node.js, and .NET.
 
@@ -64,7 +64,7 @@ Currently interested in building products that balance usability, performance, a
 
 ---
 
-# // TECH STACK
+#  TECH STACK
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Agile
 
 ---
 
-# // EXPERIENCE
+#  EXPERIENCE
 
 ## DEPI — Full Stack .NET
 
@@ -388,11 +388,7 @@ Freelance
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=shazagouda&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazagouda&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -411,7 +407,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shazagouda&b
 
 ### BUILD • LEARN • SHIP
 
-Software Engineering with intention
 
 </div>
 
